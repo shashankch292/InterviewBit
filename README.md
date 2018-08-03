@@ -1,3 +1,3 @@
 # InterviewBit
 
-InterviewBit Problem Solutions.
+InterviewBit Programming Solutions.
